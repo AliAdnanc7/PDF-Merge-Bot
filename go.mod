@@ -1,4 +1,4 @@
-https://github.com/AliAdnanc7/PDF-Merge-Bot
+ module    https://github.com/AliAdnanc7/PDF-Merge-Bot
 
 
 go 1.12
